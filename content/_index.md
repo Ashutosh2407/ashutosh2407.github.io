@@ -62,7 +62,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
+        - title: Business Analyst
           company: GenCoin
           company_url: ''
           company_logo: org-gc
@@ -189,17 +189,17 @@ sections:
         {{< gallery album="demo" >}}
     design:
       columns: '1'
-  - block: collection
-    id: featured
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      columns: '2'
-      view: card
+  #- block: collection
+  #  id: featured
+  #  content:
+  #    title: Featured Publications
+  #    filters:
+  #      folders:
+  #        - publication
+  #      featured_only: true
+  #  design:
+  #    columns: '2'
+  #    view: card
   - block: collection
     content:
       title: Recent Publications
