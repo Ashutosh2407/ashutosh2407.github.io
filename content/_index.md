@@ -63,18 +63,18 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Business Analyst
-          company: GenCoin
+          company: The Clearing House
           company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          company_logo: #org-gc
+          location: North Carolina
+          date_start: '2023-06-05'
           date_end: ''
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
+              * Developing ETLs (Extract, Transform, Load) pipeline using Power Query. 
+              * Clean and preprocess data for analysis.
+              * Developing dashboards. 
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
