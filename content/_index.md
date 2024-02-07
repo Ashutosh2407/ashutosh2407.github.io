@@ -75,14 +75,18 @@ sections:
               * Developing ETLs (Extract, Transform, Load) pipeline using Power Query. 
               * Clean and preprocess data for analysis.
               * Developing dashboards. 
-        - title: Professor of Semiconductor Physics
-          company: University X
+        - title: Technical Project Manager
+          company: Ventive
           company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          company_logo: #org-x
+          location: Idaho
+          date_start: '2021-10-05'
+          date_end: '2022-10-01'
+          description: |2-
+              Responsibilities include:
+
+              * Leading a team of engineers to develop and ship the products into production.
+              * Managed project portfolios ranging from $10k to $96k employing Scrum methodology. 
     design:
       columns: '2'
   - block: accomplishments
