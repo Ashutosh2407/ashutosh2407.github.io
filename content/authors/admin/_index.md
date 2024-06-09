@@ -50,22 +50,22 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 90
         icon: python
         icon_pack: fab
-      - name: Data Science
-        description: ''
-        percent: 70
-        icon: chart-line
-        icon_pack: fas
+      #- name: Data Science
+      #  description: ''
+      #  percent: 85
+      #  icon: chart-line
+      #  icon_pack: fas
       - name: SQL
         description: ''
-        percent: 40
+        percent: 90
         icon: database
         icon_pack: fas
       - name: Statistics
         description: ''
-        percent: 60
+        percent: 85
         icon: chart-line
         icon_pack: fas
 #  - name: Hobbies
