@@ -123,5 +123,5 @@ social:
 highlight_name: true
 ---
 
-Ashutosh Wagh is currently working as a Business Analyst at a financial organization. My interests include statistics, data visualization and deriving insights out of data to enhance business strategies. Outside of work, Ashutosh enjoys playing tennis, explore new cities and listening to music.
+Ashutosh Wagh is currently working as a Business Data Analyst at a financial organization. My interests include statistics, data visualization and deriving insights out of data to enhance business strategies. Outside of work, Ashutosh enjoys playing tennis, explore new cities and listening to music.
 {style="text-align: justify;"}

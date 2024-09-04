@@ -62,7 +62,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Business Analyst
+        - title: Business Data Analyst
           company: The Clearing House
           company_url: ''
           company_logo: #org-gc
@@ -72,8 +72,8 @@ sections:
           description: |2-
               Responsibilities include:
 
-              * Developing ETLs (Extract, Transform, Load) pipeline using Power Query. 
-              * Clean and preprocess data for analysis.
+              * Building ETL (Extract, Transform, Load) pipelines using Power Query. 
+              * Statistical Analysis.
               * Developing dashboards. 
         - title: Technical Project Manager
           company: Ventive
